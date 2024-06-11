@@ -1,0 +1,1 @@
+- Copies the configuration for user an sets it up 

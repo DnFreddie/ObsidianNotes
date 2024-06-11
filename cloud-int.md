@@ -1,0 +1,3 @@
+- Developed server isntace 
+- Set's up server based on metadata 
+-  [[docker|Docker]] for cloud isntance

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 30,
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": true,
+  "theme": "obsidian"
+}

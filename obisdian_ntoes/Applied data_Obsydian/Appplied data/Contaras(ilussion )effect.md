@@ -1,0 +1,1 @@
+**We tend to precive things in compersion to others**  

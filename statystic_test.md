@@ -1,0 +1,11 @@
+
+[[Confiramtion bias]]
+[[Priming Regression to the mean]]
+[[Types of scale]]
+[[Types of data]]
+[[Experiment]]
+[[Mere expourse;truth effect]]
+[[Key Terms of Variability metics]]
+[[Key terms for estiamtes of locations]]
+[[Correlactions]]
+[[Casuality]]

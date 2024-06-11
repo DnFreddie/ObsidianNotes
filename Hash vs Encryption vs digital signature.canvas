@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "b0a6582d8343a30d",
+      "type": "file",
+      "file": "Hash.md",
+      "x": -1760,
+      "y": -1200,
+      "width": 800,
+      "height": 557
+    },
+    {
+      "id": "4419bdf741c0cac2",
+      "type": "file",
+      "file": "Encryption.md",
+      "x": -760,
+      "y": -1200,
+      "width": 800,
+      "height": 557
+    },
+    {
+      "id": "e3c5565c357b14aa",
+      "type": "file",
+      "file": "Digital certificate.md",
+      "x": 240,
+      "y": -1200,
+      "width": 859,
+      "height": 557
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

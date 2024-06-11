@@ -1,0 +1,5 @@
+- [x] Make insertion box 
+- Insert the  image
+- Generate a challenge
+- Setup some predefined ones
+- [ ] Create a dynamic canvas
