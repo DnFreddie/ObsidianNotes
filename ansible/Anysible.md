@@ -137,6 +137,15 @@ Uses ansiable-**galaxy**
 They provied modules like for example to work with [Libvirt](https://docs.ansible.com/ansible/latest/collections/community/libvirt/index.html)
 
 
+### Ansiable with nix 
+Rember to install stuff in the as root user profile then the user can use the softerwe and also add the nix path to **sudo path**
+
+```bash 
+Defaults   secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/nix/var/nix/profiles/default/bin"
+
+```
+
+
 
 ---
 
