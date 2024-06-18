@@ -7,7 +7,7 @@ type:: Linux
 
 - It's implemented by taking screenshots and compering them to one antoher 
 	- **Baseline is a last known good state of the app**
-	![[VisualReggresionStages_visual.png]]
+	![VisualReggresionStages_visual.png](/static/VisualReggresionStages_visual.png)
 
 
 >[!quote] 

@@ -5,7 +5,7 @@
 	- **No storage increase** 
 - Very good agaisnt **data loss**
 >[!example]
-![[Pasted image 20240425181811.png]]
+![Pasted_image_20240425181811.png](/static/Pasted_image_20240425181811.png)
 
 
 ---

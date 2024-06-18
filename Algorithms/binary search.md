@@ -23,7 +23,7 @@ n = m
 ```
 
 >[!example]- Code in action
-![[Pasted image 20230628235827.png]]
+![Pasted_image_20230628235827.png](/static/Pasted_image_20230628235827.png)
 
 $$1$$
 #codingProblem 

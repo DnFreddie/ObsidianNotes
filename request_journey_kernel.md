@@ -7,7 +7,7 @@ IT's a stream of bytes thaht has theiri particular
 section define(body,request itself) via ceritain prtococol(ex. [[TCP]] ) and then that is parsed to the particular programing language (*u  can define ure own protocol*)
 ## Request  Journey 
 >[!example]-
->![[RequestJourny_visual.png]]
+>![RequestJourny_visual.png](/static/RequestJourny_visual.png)
 
  **Accept**
   - Before we send a request  we need to esatblish a transport that sends that in this case [[TCP]] connetion(*SYN/SYNAC*)
@@ -19,10 +19,10 @@ section define(body,request itself) via ceritain prtococol(ex. [[TCP]] ) and the
  - if it doesnt have it drops the conncection  
 	 - It replais wiht the [[ICMP_protocol]] message (*Destination unreachable*)
  - If it does it  put syn into [[sync_ queue]] 
-	 - ![[PutToTeSyncQue_visual.png]]
+	 - ![PutToTeSyncQue_visual.png](/static/PutToTeSyncQue_visual.png)
 	- Then the [[Kernel]]  repais to the cianet with the *SYNAC* to copmlite the conncection 
 	- Onece the server has *SYNAC* it moves the **connection** to the [[accept_ queue]] 
-		- ![[MoveToAcceptQuu_visual.png]]
+		- ![MoveToAcceptQuu_visual.png](/static/MoveToAcceptQuu_visual.png)
 - Now as the conaction is in the [[accept_ queue]] backand have to take care of managing it 
 - The [[Kernel]]  creates another two queue  
 	- [[recive_queue]]

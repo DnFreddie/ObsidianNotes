@@ -14,7 +14,7 @@ type:: Linux
 	 *A search for *  * *  at will display cat hat and bat *
 
 >[!example] Possibilities
->![[FindPossibilities.visual.png]]
+>![FindPossibilities.visual.png](/static/FindPossibilities.visual.png)
 
 ## U can search files via [[Permissions]]
 

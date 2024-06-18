@@ -1,7 +1,7 @@
 
 ### Government Security Evaluations
 
-![[Pasted image 20240528131741.png]]
+![Pasted_image_20240528131741.png](/static/Pasted_image_20240528131741.png)
 - **TCB** (*Trusted Computing Base*)
 	- 
 

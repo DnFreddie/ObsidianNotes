@@ -4,7 +4,7 @@ topic:: psychical-connector-cables
 type:: network+
 ---
 ## Mechanical Transfer Registered Jack 
-![[Pasted image 20230406235524.png]]
+![Pasted_image_20230406235524.png](/static/Pasted_image_20230406235524.png)
 
 
 >[!quote] [[Smartjack]]

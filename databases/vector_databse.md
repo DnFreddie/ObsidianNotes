@@ -4,7 +4,7 @@ type:: Data
 ---
 ## Vector databaes 
 IT provideds **approxime resutls**
-![[VectorDatabseModel_visual.png]]
+![VectorDatabseModel_visual.png](/static/VectorDatabseModel_visual.png)
 - **Indexing**: The vector database indexes vectors using an algorithm such as PQ, LSH, or HNSW . This step maps the vectors to a data structure that will enable faster searching.
     
 - **Querying** 
@@ -20,7 +20,7 @@ $$1$$
 3.  When the **application** issues a query, we use the same **embedding model** to create embeddings for the query, and use those embeddings to query the **database** for _similar_ vector embeddings
 Its a databae struckterd of [[embedings]] 
 >[!example]-
-![[VectorDatabaseStructure_visual.png]]
+![VectorDatabaseStructure_visual.png](/static/VectorDatabaseStructure_visual.png)
 
 
 $$2$$

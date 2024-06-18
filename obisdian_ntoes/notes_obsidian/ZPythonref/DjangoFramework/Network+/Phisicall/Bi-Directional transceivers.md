@@ -6,6 +6,6 @@ type:: Network
 - **Traffic in both directions witha a single fiber **
 	- Use two diffrent wavelenghts 
 - Reduce the number of fiber runs by half
-![[Bi-Directional transceivers_visual.png]]
+![Bi-Directional transceivers_visual.png](/static/Bi-Directional transceivers_visual.png)
 
 >[!quote] [[transceiver]] ;  [[duplex communication]] ; [[media converter]]

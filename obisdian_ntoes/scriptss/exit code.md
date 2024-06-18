@@ -10,7 +10,7 @@ type:: Linux
 - if you set the [[Variables]] to **exit (number)** this will fore the exit code to be the number \
 	- if u add it to the function it will end the [[Functions]]
 	>[!example]-
-	> ![[Pasted image 20230401160713.png]]
+	> ![Pasted_image_20230401160713.png](/static/Pasted_image_20230401160713.png)
 
 >[!quote] **U can redirect the wrong outpu to the** [[devnull]]
 > [[Standard Error]] [[Data Streams]]

@@ -13,7 +13,7 @@ git config --global user.name 'aura'
 git config --global user.email DefnotFreddie@defnotfreddie@gmail.com
 ```
 >[!tip]- It has to be u're gti name
->![[Pasted image 20230903144619.png]]
+>![Pasted_image_20230903144619.png](/static/Pasted_image_20230903144619.png)
 
 
 ### Add files 
@@ -28,12 +28,12 @@ git add -p
 ```
 
 >[!example]-
->![[Pasted image 20240508110725.png]]
+>![Pasted_image_20240508110725.png](/static/Pasted_image_20240508110725.png)
 e
 
 ###  Merge vs Rebase 
 >[!bug] Use rebase locally 
-![[Pasted image 20240508123416.png]]
+![Pasted_image_20240508123416.png](/static/Pasted_image_20240508123416.png)
 
 
 

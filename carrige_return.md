@@ -10,7 +10,7 @@ Control characters that appear to the text file to innit to the printer that it 
 
  ==[[HTTP]]  and [[HTTPS]] format is Linefid + Carraige==
 
-![[Carriage_retur_visual.png]]
+![Carriage_retur_visual.png](/static/Carriage_retur_visual.png)
 - On windosw 
 	- There are only carriage returns and line feed 
 - On [[Linux]]  (*an in rest of the world*)  there are **line feeds**

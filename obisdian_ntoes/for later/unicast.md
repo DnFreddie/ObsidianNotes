@@ -8,6 +8,6 @@ type:: network+
 	- Sending inforamtion between two systems 
 - It does not scale optimally for real-time streaming media 
 	- U wpould have to send single straem to every device 
->[!example] ![[Unicast_visual.png]]
+>[!example] ![Unicast_visual.png](/static/Unicast_visual.png)
 - Mostly use with [[IPv4 address]]and [[IPv6 address]]
 >[!quote] [[broadcast]] [[Peer to peer]] [[DHCP_protocol]]

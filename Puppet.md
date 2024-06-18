@@ -9,7 +9,7 @@
 	- Tool  that controls *all the masters*
 
 >[!example]-
-![[Pasted image 20240508131449.png]]
+![Pasted_image_20240508131449.png](/static/Pasted_image_20240508131449.png)
 
 ### Configuration 
 
@@ -19,7 +19,7 @@ The main configuration is **Manifest.pp**
 	- This can be also setup further in module 
 	
 >[!example]- 
-![[Pasted image 20240508132228.png]]
+![Pasted_image_20240508132228.png](/static/Pasted_image_20240508132228.png)
 
 
 --- 

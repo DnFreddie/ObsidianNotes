@@ -14,4 +14,4 @@ The data is beeing hold im the [[TCP]] [[UDP]]
 ## Transfering data 
 ==The data ins *Encapsulated* by the IP protocol==
 - [[Ethernet]]  **frame**
-	![[TransferEthernetFrame_visual.png]]
+	![TransferEthernetFrame_visual.png](/static/TransferEthernetFrame_visual.png)

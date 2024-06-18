@@ -8,7 +8,7 @@ type:: network+
 	- [[UDP]] **/161** 
 
 >[!example]-
->![[SNMP_visual.png]]
+>![SNMP_visual.png](/static/SNMP_visual.png)
 
 - V3 A secure standard 
 	- Message integrity 

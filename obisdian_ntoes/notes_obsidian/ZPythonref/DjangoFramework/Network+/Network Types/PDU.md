@@ -19,11 +19,11 @@ or
 ## Encapsilation and Decapsulation of 
 
 
-[[Encapsilation_Decapsulation_visual.png]]
+[Encapsilation_Decapsulation_visual.png](/static/Encapsilation_Decapsulation_visual.png)
 
 ### Flags
 - **Change how th devica interperets the data beeing send insde [[TCP]] layer**
-[[Pasted image 20230319170951.png]]
+[Pasted_image_20230319170951.png](/static/Pasted_image_20230319170951.png)
 
 ### We want ot use [[MTU]] becouse fragmetation slow things down 
 - **Losing  a fragment loses the entire packet**

@@ -16,6 +16,6 @@ The device sends *only one signal* to the network
 		- Uses [[multicast]] instead
 
 
-[[Broadcast_visual.png]]
+[Broadcast_visual.png](/static/Broadcast_visual.png)
 
 >[!quote] [[unicast]] [[multicast]]

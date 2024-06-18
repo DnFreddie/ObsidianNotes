@@ -5,7 +5,7 @@ status:: START
 ---
 ## Network interface unit 
 - **Device taht determines the [[Demarcation point]](Demarc)**
-	- [[DemarcPoint_visual.png]]
+	- [DemarcPoint_visual.png](/static/DemarcPoint_visual.png)
 - Network Interface Device 
 - Telephone Network Interface
 

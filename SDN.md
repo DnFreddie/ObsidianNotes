@@ -24,7 +24,7 @@ Networking devices have different functional panes of operation
 ### Application layer/Management plane
  - Configure and mange the device 
  
-![[SDNDataFlows_visual.png]]
+![SDNDataFlows_visual.png](/static/SDNDataFlows_visual.png)
 
 
 

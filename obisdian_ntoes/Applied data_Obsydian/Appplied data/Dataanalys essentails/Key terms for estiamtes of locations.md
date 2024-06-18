@@ -4,7 +4,7 @@
 *The sum of values times a weight divided by the numbers of values*e 
 (*average*)
 In python:
-[[Counting mean in python visual.png]]
+[Counting mean in python visual.png](/static/Counting mean in python visual.png)
 
 ---
 
@@ -21,7 +21,7 @@ The value such that one-half of data lies above and below
 *(50th percentile)
 
 In python:
-[[median.py visual.png]]
+[median.py visual.png](/static/median.py visual.png)
 
 ---
 <mark class="hltr-try">Percentile</mark>

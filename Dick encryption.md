@@ -9,5 +9,5 @@
 ### Decryption on [[Boot procces]] 
 
 >[!example] U have to create **/etc/crypttab** file 
->![[Pasted image 20240427161821.png]]
+>![Pasted_image_20240427161821.png](/static/Pasted_image_20240427161821.png)
 > "**-**" is for the prompt on boot

@@ -19,7 +19,7 @@ Body of the loops
 <mark class="hltr-pomarancza">Start</mark> 
 <mark class="hltr-pomarancza">Step</mark> 
 <mark class="hltr-pomarancza">Stop</mark>
-![[Pasted image 20230114135908.png]]
+![Pasted_image_20230114135908.png](/static/Pasted_image_20230114135908.png)
 
 
 **We can easily loop through the list**

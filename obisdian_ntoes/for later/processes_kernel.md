@@ -10,7 +10,7 @@ An isnstance of the eceacutable
 	- The process is na continer 
 	- Process ca run other porceses that are called *child processes*
 - The process is not aware of ohter processes 
--  ![[ProcessContainer_visual.png]]
+-  ![ProcessContainer_visual.png](/static/ProcessContainer_visual.png)
 - Eaach process has it's own [[Virtual Memory Address]]
 ### Types of processes 
 |     | *Types*              | *Functionality*                                                            |

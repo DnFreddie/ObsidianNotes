@@ -6,7 +6,7 @@
 
 - Series of fast pulses that when u avrage them out **determines the voltage the motor sees**
 	- The shorter the pulses the slower the motor 
- ![[PWM_visual.png]]
+ ![PWM_visual.png](/static/PWM_visual.png)
 
 
 

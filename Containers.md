@@ -2,7 +2,7 @@
 
 ### Container isolation 
 >[!example]-
-![[Pasted image 20240509113313.png]]
+![Pasted_image_20240509113313.png](/static/Pasted_image_20240509113313.png)
 
 
 
@@ -10,5 +10,5 @@
 
 
 ### Container name spaces 
-![[Pasted image 20240509113631.png]]
+![Pasted_image_20240509113631.png](/static/Pasted_image_20240509113631.png)
 

@@ -26,5 +26,5 @@ Oposite of a depth first search
 - We use [[queue_algorithms]] **instead** of [[stack_algorithms]] 
 - Its a **tree level visiting**
 	One tree level at a time 
-	![[BreadthFirstSarge_visual.png]]
+	![BreadthFirstSarge_visual.png](/static/BreadthFirstSarge_visual.png)
 >[!quote] [[trees_algorithms]]

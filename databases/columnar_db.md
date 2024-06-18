@@ -6,6 +6,6 @@ type:: Data
 Data is stored and accesed based on columns 
 - This storage allows for efficient copperssion and query performence 
 - high compression rates due to the column-wise storage structure. Data in a column typically has similar data types and patterns
-		![[ColumnarDatabaseExample_visual.png]]
+		![ColumnarDatabaseExample_visual.png](/static/ColumnarDatabaseExample_visual.png)
 
 >[!quote] [[redis]] [[firebase]] 

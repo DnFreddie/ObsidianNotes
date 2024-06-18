@@ -8,4 +8,4 @@ status:: START
 -   Configured and connected through the [[hypervisor]] 
 	- Enable additional features 
 	- [[VLAN]] aggregation, multiple interfaces
->[!example] ![[VirtualNetworkInterfaceCard_visula.png]]
+>[!example] ![VirtualNetworkInterfaceCard_visula.png](/static/VirtualNetworkInterfaceCard_visula.png)

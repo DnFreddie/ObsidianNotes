@@ -13,7 +13,7 @@ type:: Linux
  - **modeinfo**
 	 - IT gives a summarize of the module
 >[!example]-
->![[ModeInfoResult_visual.png]]
+>![ModeInfoResult_visual.png](/static/ModeInfoResult_visual.png)
 	 
 - **insmode**
 	- load or or insert a module 

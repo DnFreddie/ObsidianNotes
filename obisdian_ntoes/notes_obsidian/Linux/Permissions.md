@@ -11,7 +11,7 @@ First is for user second is for gorup and third for all users
 - Meaning that in ordder to add  all permisions to all users u have to type 7 7 7 
 
 >[!Example] Numeric represenation of permmmision 
->![[Pasted image 20230404214606.png]]
+>![Pasted_image_20230404214606.png](/static/Pasted_image_20230404214606.png)
 
 ![[umask]]
 ## Special permisions

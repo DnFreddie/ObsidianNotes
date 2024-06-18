@@ -1,5 +1,5 @@
 Virtual or psychical device that connect multiple [[LAN]] 's
-![[Pasted image 20240510102627.png]]
+![Pasted_image_20240510102627.png](/static/Pasted_image_20240510102627.png)
 - All parts of the bridge will get their collision domain
 >[!bug] Collisions
  When to or more devices on the same network try to transmit data at the exact same time (*some packet will be doped*)
@@ -17,7 +17,7 @@ docker network create my-bridge-net --subnet  10.0.0..0/19
 ```
 
 >[!example] Docker compose 
->![[Pasted image 20240510104017.png]]
+>![Pasted_image_20240510104017.png](/static/Pasted_image_20240510104017.png)
 
 
 --- 

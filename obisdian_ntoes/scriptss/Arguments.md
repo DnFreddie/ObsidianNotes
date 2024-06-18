@@ -7,4 +7,4 @@ type:: Linux
 U can give arguments by **$number**
 - **$#** it chechs weatehr the patrtiuvlar number of arguments where isnerted 
 >[!example] 
->![[ArgumentsCheck_visual.png]]
+>![ArgumentsCheck_visual.png](/static/ArgumentsCheck_visual.png)

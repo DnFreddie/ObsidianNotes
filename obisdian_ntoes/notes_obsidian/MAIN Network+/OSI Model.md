@@ -14,5 +14,5 @@
 	- 6.[[Presentation_OSI]]
 	- 7.[[Application_OSI]]
 
-#summary [[Summary_OSI_Visual.png]]
+#summary [Summary_OSI_Visual.png](/static/Summary_OSI_Visual.png)
 >[!quote] 

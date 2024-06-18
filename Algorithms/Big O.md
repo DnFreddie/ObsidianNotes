@@ -24,7 +24,7 @@ $$1$$
 - O squere ("*usually loop inside the loop*")
 	**O (N^2)**
  
-	 ![[OSquer_visla.png]]
+	 ![OSquer_visla.png](/static/OSquer_visla.png)
   
 >[!tip] If the input halves itsel at each step,its likely *O of (LogN) or O(NlogN)*
 	
@@ -33,7 +33,7 @@ $$1$$
 - O(log n)
 	- [[Binary search trees]]
 	
-[[BIgOTypes_visual.png]]
+[BIgOTypes_visual.png](/static/BIgOTypes_visual.png)
 
 
 

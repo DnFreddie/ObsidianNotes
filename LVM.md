@@ -1,5 +1,5 @@
 >[!example] Way to combine storage
-![[Pasted image 20240427140250.png]]
+![Pasted_image_20240427140250.png](/static/Pasted_image_20240427140250.png)
 
 >[!bug] It does not offer data protection
 >If one drive fails the other fail too 

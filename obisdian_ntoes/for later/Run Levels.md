@@ -16,7 +16,7 @@ Run it with sudo **init** run level (*this are called init scripts*)
 
 
 >[!example] 
->![[Pasted image 20240426141511.png]]
+>![Pasted_image_20240426141511.png](/static/Pasted_image_20240426141511.png)
 
 
 >[!quote] [[Cronetab]] | [[Kernel]] | [[rc scripts]]

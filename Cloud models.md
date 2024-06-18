@@ -5,7 +5,7 @@
 ## Cloud models 
 
 >[!tip]- Modlues diff_graph
-![[Cloud_Models_Visual.png]]
+![Cloud_Models_Visual.png](/static/Cloud_Models_Visual.png)
 
 ![[SaaS]]
 

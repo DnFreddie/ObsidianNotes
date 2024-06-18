@@ -9,7 +9,7 @@ type:: network+
 
 
 >[!example]- Sample  forward lookup file 
->![[SampleForwardLookup_visual.png]]
+>![SampleForwardLookup_visual.png](/static/SampleForwardLookup_visual.png)
 >[[DNS_Queries#Forword Lookup]]
 ### SOA 
 **Start of Authority**
@@ -21,7 +21,7 @@ type:: network+
 	- Casching duration [[DNS_Queries#TTL]]
  
 >[!example]- 
->![[SOABeginignFile_visual.png]]
+>![SOABeginignFile_visual.png](/static/SOABeginignFile_visual.png)
 
 $$1$$
 ### Address records(AAAA)
@@ -33,7 +33,7 @@ $$1$$
 - **AAAA** records are for [[IPv6 address]] 
 	- **Same DNS serverA** diffrent records 
 >[!example]-
->![[AAARecordsExample_visual.png]]
+>![AAARecordsExample_visual.png](/static/AAARecordsExample_visual.png)
 
 $$2$$
 ### CNAME 
@@ -42,7 +42,7 @@ $$2$$
 	- ==One psychical server multiple services== 
  
 >[!example]-
->![[CannonicalName_visual.png]]
+>![CannonicalName_visual.png](/static/CannonicalName_visual.png)
 
 $$3$$
 ### SRV

@@ -7,7 +7,7 @@ type:: network+
 TLS add an extra layer of encryption to the [[HTTPS]]
 - USed in appp 
 - Easy to implement 
-![[TLSHeadshake_visual.png]]
+![TLSHeadshake_visual.png](/static/TLSHeadshake_visual.png)
 
 [[TLS_session]]
 

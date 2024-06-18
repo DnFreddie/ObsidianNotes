@@ -5,9 +5,9 @@
 The ratios bettwen the lenght of this tree sites 
 
 
-![[Rat iosBetwenTHem_visual.png]]
+![Rat iosBetwenTHem_visual.png](/static/Rat iosBetwenTHem_visual.png)
 
-![[SOH-CAH-TOA_visual.png]]
+![SOH-CAH-TOA_visual.png](/static/SOH-CAH-TOA_visual.png)
 
 - Hypotenuse
 - Opposite 
@@ -16,7 +16,7 @@ The ratios bettwen the lenght of this tree sites
 
 
 
-![[SqueredTriangle_visual.png]]
+![SqueredTriangle_visual.png](/static/SqueredTriangle_visual.png)
 
 ---
 [[math_MAIN]]

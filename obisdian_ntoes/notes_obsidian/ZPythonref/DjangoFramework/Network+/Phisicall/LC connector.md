@@ -5,7 +5,7 @@ type:: network+
 ---
 ## Local connetor 
 Popular becouse u can store alot of them into the router
-![[Local_connectors.png]]
+![Local_connectors.png](/static/Local_connectors.png)
 
 
 >[!quote] [[Cables]]

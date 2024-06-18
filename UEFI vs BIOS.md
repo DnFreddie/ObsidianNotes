@@ -22,6 +22,6 @@
 
 >[!important] **GPT**  creates fake Master record in order to be compatible with  the Bios 
 
-![[Pasted image 20240425173903.png]]
+![Pasted_image_20240425173903.png](/static/Pasted_image_20240425173903.png)
 
 

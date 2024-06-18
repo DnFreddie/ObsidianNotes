@@ -9,7 +9,7 @@ SYN-ACK
 2. SYN *seq 100* [[ACK]]
 
 >[!example]- Graph
->![[3WayhandshakeGraph_visual.png]]
+>![3WayhandshakeGraph_visual.png](/static/3WayhandshakeGraph_visual.png)
 
 
 

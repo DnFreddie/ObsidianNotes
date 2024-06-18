@@ -6,7 +6,7 @@ type:: network+
 
 128 bit value to **uniquely** **identyfie** everything 
 >[!example]-
->![[UUIDSequence_visual.png]]
+>![UUIDSequence_visual.png](/static/UUIDSequence_visual.png)
 ## Variants 
 - Varaint 0
 	- ==IT's obsolete==

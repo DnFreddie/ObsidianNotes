@@ -4,7 +4,7 @@ topic:: network-topology
 status:: START
 ---
 ## Ring 
-[[RingTopology_visual.png]]
+[RingTopology_visual.png](/static/RingTopology_visual.png)
 * **Used for wide area networks**
 	- [[MAN]]**Metro area networks**
 	- [[WAN]] **Wide area Networks**

@@ -21,13 +21,13 @@ type:: network+
 - Often comabined with fiber
 	- *Copper on  the local loop ,fiber in the bacground*
 ## Copper cable categories 
-![[CopperCablesCategories_visual.png]]
+![CopperCablesCategories_visual.png](/static/CopperCablesCategories_visual.png)
 
 ### Coaxial cables 
  - Two or more forms share a common axis
  - Rg-6 used in televison/digital cable
 	 - AND high speed internet over cablee 
-	 ![[CoaxialCables_visual.png]]
+	 ![CoaxialCables_visual.png](/static/CoaxialCables_visual.png)
 ## Twinaxial cable 
 Two inner conductors (*Twins*)
 - Common on 10 Gigabit [[Ethernet]] SFP+ cables

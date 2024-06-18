@@ -7,7 +7,7 @@
 
 
 >[!example]
-![[Pasted image 20240430084931.png]]
+![Pasted_image_20240430084931.png](/static/Pasted_image_20240430084931.png)
 
 ---
 [[DNS]]

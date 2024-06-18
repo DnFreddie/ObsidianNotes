@@ -6,7 +6,7 @@ type:: Algorithms
 ## Bubble sort 
 - Singular iteration produces the largest number 
 - *The first interation is N the other is N-1* 
-[[BubleSort_visual.png]]
+[BubleSort_visual.png](/static/BubleSort_visual.png)
 - we take an sorrted [[Static Array]]   
 	- then we aske the value waether is bigger or not 
 		- if its bigger we swaps it to the right 
@@ -17,7 +17,7 @@ type:: Algorithms
 	- [[Big O]]
 
 >[!example]- 
->![[BubbleSortCode_visual.png]]
+>![BubbleSortCode_visual.png](/static/BubbleSortCode_visual.png)
 
 ```ts
 	for (let i = 0; i < arr.length; i++) {

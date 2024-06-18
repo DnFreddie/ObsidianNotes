@@ -17,7 +17,7 @@ status:: START
 
 - Deployed from the [[hypervisor]]
 	Automate with orchestration
-> [!example] ![[vSwitch_visual.png]]
+> [!example] ![vSwitch_visual.png](/static/vSwitch_visual.png)
 
 > [!quote] [[vNIC]]
 

@@ -7,7 +7,7 @@ type:: Kernel
  - It acts as a secure gateway, allowing programs to interact with hardware and access higher privileges while maintaining system stability and security.
 
 > [!example]- Accept syscall
-> ![[Pasted image 20230802122650.png]]
+> ![Pasted_image_20230802122650.png](/static/Pasted_image_20230802122650.png)
 
 
 >[!quote] 

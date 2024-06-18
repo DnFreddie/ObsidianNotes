@@ -1,6 +1,6 @@
 
 [[Boot_Prcooccess.canvas|Boot_Prcooccess]]
-![[Pasted image 20240424191852.png]]
+![Pasted_image_20240424191852.png](/static/Pasted_image_20240424191852.png)
 
 
 

@@ -5,7 +5,7 @@ type:: Linux
 ## Baisisc info of the kernel 
 **uname -a**
 >[!tip]- Result 
->![[KernnelVersion_visual.png]]
+>![KernnelVersion_visual.png](/static/KernnelVersion_visual.png)
 
 ### Main tasks
 -   Spliting memory into subdevisons

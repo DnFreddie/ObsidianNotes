@@ -5,7 +5,7 @@ composed of *pages*
 - contains small memory cells 
 
 >[!example]-
->![[Pasted image 20240511143906.png]]
+>![Pasted_image_20240511143906.png](/static/Pasted_image_20240511143906.png)
 
 ---
 [[SSD]] 

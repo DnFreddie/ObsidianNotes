@@ -9,6 +9,6 @@ type:: Linux
 ### Adding [[service]] to the boot 
 - rc.d 
 	- This command enables you to add or remove services from the rc.d script
-		- ![[AddingRcService_visual.png]]
+		- ![AddingRcService_visual.png](/static/AddingRcService_visual.png)
 
 >[!quote] [[Cronetab]] | [[Run Levels]]

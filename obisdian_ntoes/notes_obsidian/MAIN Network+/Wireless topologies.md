@@ -14,7 +14,7 @@ $$ $$
 - Devices communication amongs themselves
 $$  $$
 ## Mesh_WLAN
-[[WirllesMesh_Visual.png]]
+[WirllesMesh_Visual.png](/static/WirllesMesh_Visual.png)
 - Ad hoc devices work together to form a **mesh cloud**
 - **Self Form and self Heal**
 

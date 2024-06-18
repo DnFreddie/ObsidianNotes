@@ -1,6 +1,6 @@
 one-dimenosianeld array capeable of holding any datat type (integers, strings ,floating point ,numbers ,python objectts etc. )
 
-![[Baisic_serieis_visual.png]]
+![Baisic_serieis_visual.png](/static/Baisic_serieis_visual.png)
 
 s'[0]'
 List the firs argument 

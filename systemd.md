@@ -4,7 +4,7 @@
 #### Units 
 **Any entity** managed by systemd
 >[!example]-
->![[Pasted image 20240514192234.png]]
+>![Pasted_image_20240514192234.png](/static/Pasted_image_20240514192234.png)
 
 
 
@@ -72,7 +72,7 @@ sudo service *name* restart
 
 ### Configuration
 >[!example]- [Docs configuration](https://access.redhat.com/documentation/enus/red_hat_enterprise_linux/8/html-single/using_systemd_unit_files_to_customize_and_optimize_your_system/indexj)
->![[Pasted image 20240514205706.png]]
+>![Pasted_image_20240514205706.png](/static/Pasted_image_20240514205706.png)
 
 
 
@@ -80,7 +80,7 @@ sudo service *name* restart
 
 ### Systemd Timers
 >[!example]
->![[Pasted image 20240514231948.png]]
+>![Pasted_image_20240514231948.png](/static/Pasted_image_20240514231948.png)
 
 ![Systemd](https://www.youtube.com/watch?v=n6BuUgkZ5T0)
 

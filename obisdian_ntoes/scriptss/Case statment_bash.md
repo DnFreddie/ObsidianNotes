@@ -9,7 +9,7 @@ It allows to have multiple options ([[Functions]])
 wirthut writing if
 
 >[!example]
->![[CaseStamentBash_visual.png]]
+>![CaseStamentBash_visual.png](/static/CaseStamentBash_visual.png)
 > (* ) means else 
 > **remeber about ;; at the end of the line 
 > exept the last one**

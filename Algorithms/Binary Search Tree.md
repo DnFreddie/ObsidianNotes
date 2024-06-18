@@ -5,6 +5,6 @@ but i has ==one condition==
 - The right side has to be **greater** then node 
 	- It's similar  to the [[quick sort]]
 >[!example]-
->![[BinarySearchTree_visual.png]]
+>![BinarySearchTree_visual.png](/static/BinarySearchTree_visual.png)
 
 

@@ -7,7 +7,7 @@ type:: network+
 Port number designe where the package will be deliver 
 *The location of the [[service]]   on particular device*
 Its handed to the serviece that manage this *port numbers*
-[[PortNumbers_visual.png]]
+[PortNumbers_visual.png](/static/PortNumbers_visual.png)
 $$1$$
 ## Port types 
 - **None-emperal ports**(Permantent port numbers)
@@ -26,7 +26,7 @@ $$1$$
 $$2$$
 ## Managing the data 
 - Diffrent ports enable to differentiet before the *transfered data*
-	![[MenaginPortsData_visual.png]]
+	![MenaginPortsData_visual.png](/static/MenaginPortsData_visual.png)
 $$3$$
 ## Common ports 
 | port                                              | name                                   | fn                                           |     |     |

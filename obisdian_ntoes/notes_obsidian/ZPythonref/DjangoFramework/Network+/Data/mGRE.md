@@ -7,7 +7,7 @@ status:: START
 - Used extensivly for 
 	**[[DMVPNM]]**
 - Common on [[Cisco routesrs]]
-[[mGre_Visual.png]]
+[mGre_Visual.png](/static/mGre_Visual.png)
 $$ $$
 ## VPN builds itself
 - **Tunnels are built dynamically on demand**

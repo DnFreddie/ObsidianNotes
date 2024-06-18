@@ -35,7 +35,7 @@ sudo aa-logprof
 ```
 
  >[!example]-
- >![[Pasted image 20240507121744.png]]
+ >![Pasted_image_20240507121744.png](/static/Pasted_image_20240507121744.png)
 
 ---
 [Docs](https://www.youtube.com/watch?v=XP-N22hjijo&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&index=39)

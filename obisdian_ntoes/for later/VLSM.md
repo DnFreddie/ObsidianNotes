@@ -11,7 +11,7 @@ type:: network+
  - **[[subnet classes]] are inefficient**
 	 - The [[subnet mask]] is based on the network class 
 > [!example]- Calculating subnet and host 
-> ![[SubnetAndHost_visual.png]]
+> ![SubnetAndHost_visual.png](/static/SubnetAndHost_visual.png)
 
 
 >[!quote] [[subnet construction]]

@@ -7,5 +7,5 @@ type:: network+
 Hash of the packet and shared key 
  - MD5,SHA-1or SHA-2 are common  
  - Addts the Ah to to the packet header
-	 ![[AH_visual.png]]
+	 ![AH_visual.png](/static/AH_visual.png)
 >[!quote] [[IPSec_protocol]]

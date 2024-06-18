@@ -4,6 +4,6 @@ topic::
 type:: Linux
 ---
 ## Subscriber connectors 
-![[Pasted image 20230406235245.png]]
+![Pasted_image_20230406235245.png](/static/Pasted_image_20230406235245.png)
 
 >[!quote] [[St connector]][[LC connector]]

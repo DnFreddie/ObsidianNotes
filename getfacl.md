@@ -3,7 +3,7 @@
  - **getfacl** 
  - **setfacl**
 >[!example]-
->![[Pasted image 20240507125459.png]]
+>![Pasted_image_20240507125459.png](/static/Pasted_image_20240507125459.png)
 
 
 - Look for the **+** symbol on the ls 

@@ -5,7 +5,7 @@
 [Dokcer Swarm](https://docs.docker.com/engine/swarm/) 
 It's beeter to use [[Kubernetes]] 
 >[!example]
-![[Pasted image 20240510110121.png]]
+![Pasted_image_20240510110121.png](/static/Pasted_image_20240510110121.png)
 
 ---
 [[host_net]] [[bridge_net]] [[docker]]

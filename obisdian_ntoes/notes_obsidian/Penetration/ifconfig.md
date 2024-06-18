@@ -7,7 +7,7 @@ type:: Linux
 Examine and interact with active nework interfaces 
 
 >[!example]-
->![[IfconfigExamle_visual.png]]
+>![IfconfigExamle_visual.png](/static/IfconfigExamle_visual.png)
 
 this dispalys most important informatio 
 1.  [[MAC Adress]]
@@ -17,7 +17,7 @@ this dispalys most important informatio
 **If u want to see the[[IP]] u have to 
 run IP**  adrr
 >[!tip]- result
->![[IpAddr_visual.png]]
+>![IpAddr_visual.png](/static/IpAddr_visual.png)
 
 - Enables to connect and  manipulate [[LAN]]
 - U can easily switch ure IP with 

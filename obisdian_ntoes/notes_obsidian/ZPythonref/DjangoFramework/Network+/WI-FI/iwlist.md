@@ -5,7 +5,7 @@ type:: network+
 ## Iwlist
 To see  [[Wi-Fi]] **[[access point]]**  
 >[!example]- *iwlist interface action*
->![[IwlistCOnfig_visual.png]]
+>![IwlistCOnfig_visual.png](/static/IwlistCOnfig_visual.png)
 
 
 

@@ -9,7 +9,7 @@
 - **VPC Endpoint**
 	- Direct connection between clodu provider networks 
  >[!example]- VPC Schema
-![[VPC_Endpoitn_Schema_visual.png]]
+![VPC_Endpoitn_Schema_visual.png](/static/VPC_Endpoitn_Schema_visual.png)
 
 >[!bug]- Vm Sprawl
 >The virtual machines are sprawled everywhere 

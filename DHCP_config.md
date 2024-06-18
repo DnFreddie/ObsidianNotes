@@ -15,7 +15,7 @@ type:: network+
 ## Pools 
 One **Scope** is genarlly a single contiguaous pool of IP addresses 
  Each [[subnet mask]]  has its own scope 
-  [[SUbnetScopes_visual.png]]
+  [SUbnetScopes_visual.png](/static/SUbnetScopes_visual.png)
   - DHCP exeptions can be made inside of the scope 
 
 ## Address Assigments 
@@ -33,7 +33,7 @@ One **Scope** is genarlly a single contiguaous pool of IP addresses
 **Table of** [[MAC Adress]]
 - Each [[MAC Adress]]  has its matching [[IP]] address 
 ## Address reservation 
-![[Address_Reservation_visual.png]]
+![Address_Reservation_visual.png](/static/Address_Reservation_visual.png)
 ## DHCP renewal 
 - **T1 Timer**
 	- Check in with the lending [[DHCP server]] to renew the [[IP]] address 

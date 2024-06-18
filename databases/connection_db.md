@@ -5,6 +5,6 @@ type:: db
 ## Database ports 
 
 >[!example]-
->![[DatabasePorts_visual.png]]
+>![DatabasePorts_visual.png](/static/DatabasePorts_visual.png)
 
 >[!quote] [[ports]] [[sqlx]]

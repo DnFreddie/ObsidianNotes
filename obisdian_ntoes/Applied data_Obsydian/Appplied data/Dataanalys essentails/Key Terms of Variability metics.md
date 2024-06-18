@@ -13,7 +13,7 @@ Measuring it , reducing it ,distinguishing random from real variability , identi
 *(errors, residuals)*
 
 *How far/spread out  the data points are form the average*
-![[Pasted image 20230108112000.png]]
+![Pasted_image_20230108112000.png](/static/Pasted_image_20230108112000.png)
 ---
 <mark class="hltr-try">Variance</mark>
 **The sum of squared deviation from the mean divided by   

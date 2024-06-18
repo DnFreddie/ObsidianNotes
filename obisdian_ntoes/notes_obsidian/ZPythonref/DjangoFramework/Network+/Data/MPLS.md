@@ -14,7 +14,7 @@ status:: START
 Defines were all the sites may be located 
 And what lables are used to switchi data 
 
-[[MPLSPushingAndPoping.png]]
+[MPLSPushingAndPoping.png](/static/MPLSPushingAndPoping.png)
 ### Pushing and Poping 
 
 - Lables are **pushed** onto packets as they enter the MPLS cloud

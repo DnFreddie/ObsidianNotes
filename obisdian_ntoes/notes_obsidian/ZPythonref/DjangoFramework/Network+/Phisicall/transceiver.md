@@ -11,6 +11,6 @@ type:: network+
 - Many diffrenjt types and designs 
 	-  *Remember to chec the documentation becouse diffrent devices need diffrent transivers*
 
-![[Transciver_visual.png]]
+![Transciver_visual.png](/static/Transciver_visual.png)
 
 >[!quote] [[Physical_OSI]] [[media converter]]

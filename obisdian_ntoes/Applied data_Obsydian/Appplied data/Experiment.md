@@ -53,7 +53,7 @@ The extent to which the resualts of study can be generaliezd
 - Supipcion probe / debtefing 
 
 **Rewasarch method**
-![[Pasted image 20230112140100.png]]
+![Pasted_image_20230112140100.png](/static/Pasted_image_20230112140100.png)
 
 *Expoloration* 
 Much of social reasearch is conducted to explore a topic that is , to start familarize a researcher with the topic .
@@ -63,7 +63,7 @@ This approach typicyly occurs when a reasearcher examines a new interes or when 
 To expleain things 
 *Description*
 many soicial scientific studies aim at descripion
-![[Pasted image 20230112150430.png]]
+![Pasted_image_20230112150430.png](/static/Pasted_image_20230112150430.png)
 
 
 Intervies are diffren and can have diffrent forms 
@@ -94,6 +94,6 @@ No bias form stonger
 expert 
 
 Tapes of data
-![[Pasted image 20230112151343.png]]
+![Pasted_image_20230112151343.png](/static/Pasted_image_20230112151343.png)
 
 

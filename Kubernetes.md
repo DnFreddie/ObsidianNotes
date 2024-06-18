@@ -22,7 +22,7 @@
 - Can share folders with main container 
 - Can communicate via localhost 
 >[!example]-
->![[Pasted image 20240509205921.png]]
+>![Pasted_image_20240509205921.png](/static/Pasted_image_20240509205921.png)
 ######  Ambassador
 
 - The  main app does not connect to external services 
@@ -30,14 +30,14 @@
 	- It works pretty much as proxy 
 
 >[!example]-
->![[Pasted image 20240509205439.png]]
+>![Pasted_image_20240509205439.png](/static/Pasted_image_20240509205439.png)
 
 ##### Adapter
 - This modifies the information revived from the container to the desired format 
 	- Example logs  or data required for the  app
 
 >[!example]-
->![[Pasted image 20240509210026.png]]
+>![Pasted_image_20240509210026.png](/static/Pasted_image_20240509210026.png)
 
 [Docks](https://raghavramesh.github.io/posts/kubernetes-multi-container-patterns/)
 
